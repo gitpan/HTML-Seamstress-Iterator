@@ -1,0 +1,6 @@
+Revision history for Perl extension HTML::Seamstress::Iterator.
+
+0.01  Tue Sep 11 10:09:59 2001
+	- original version; created by h2xs 1.1.1.4 with options
+		-A -X -n HTML::Seamstress::Iterator
+
